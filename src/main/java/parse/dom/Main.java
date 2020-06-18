@@ -1,4 +1,4 @@
-package dom;
+package parse.dom;
 
 import org.w3c.dom.*;
 
